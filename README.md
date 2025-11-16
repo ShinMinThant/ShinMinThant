@@ -38,7 +38,6 @@ Technology is always evolving, and I’m committed to continuous learning and im
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMinThant&layout=compact&theme=tokyonight)
 
 </div>
----
 
 
 
