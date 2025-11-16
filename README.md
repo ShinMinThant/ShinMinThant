@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shin Min Thant
+<h1 align="center">Hi there 👋, I'm Shin Min Thant</h1>
 
 I'm an aspiring developer passionate about **web development, coding, and open-source contribution**.  
 I enjoy **building projects**, **solving problems**, and **learning new technologies**.
