@@ -6,7 +6,7 @@ I'm an aspiring developer passionate about **web development, coding, and open-s
 
 ## 👨‍💻 About Me
 
-I’m a passionate developer with experience in **front-end development**.  
+I’m a developer with experience in **front-end development**.  
 I enjoy transforming ideas into efficient, clean, and user-friendly applications.  
 Technology is always evolving, and I’m committed to continuous learning and improvement.
 
