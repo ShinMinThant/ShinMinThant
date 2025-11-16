@@ -1,17 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Shin Min Thant</h1>
 
-&nbsp;&nbsp;&nbsp;I'm an aspiring developer passionate about **web development, coding, and open-source contribution**.  
+<h1 align="center">I'm an aspiring developer passionate about **web development, coding, and open-source contribution**.  
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a passionate developer with experience in both **front-end and back-end development**.  
+I’m a passionate developer with experience in **front-end development**.  
 I enjoy transforming ideas into efficient, clean, and user-friendly applications.  
 Technology is always evolving, and I’m committed to continuous learning and improvement.
 
-- 🌱 Currently learning: **DevOps, Cloud Deployment, Unit Testing & Software Architecture**  
-- 📫 Email me: **shinminthant03mdy@gmail.com**
+- 🌱 Currently learning: **JavaScript, Front-End Development, Responsive Web Design, and Git & GitHub workflows**
+- 📫 How to reach me: **shinminthant03mdy@gmail.com**
 
 ---
 
