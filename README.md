@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Shin Min Thant</h1>
 
-<h1 align="center">I'm an aspiring developer passionate about **web development, coding, and open-source contribution**.  
+I'm an aspiring developer passionate about **web development, coding, and open-source contribution**.  
 
 ---
 
