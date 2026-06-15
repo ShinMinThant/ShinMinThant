@@ -1,16 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Shin Min Thant</h1>
 
-### I'm an aspiring developer passionate about **web development, data engineering, coding, and open-source contribution**.
+### I'm an aspiring developer passionate about **Data Engineering, Backend Development, and open-source contribution**.
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a developer with experience in **front-end development**, and I’m currently expanding into **Data Engineering and backend development with Python Django**.  
-I enjoy transforming ideas into efficient, clean, and user-friendly applications and data-driven systems.  
+I’m a developer with experience in **front-end development**, now expanding into **Data Engineering and Backend systems**.  
+I enjoy transforming data and ideas into efficient, scalable, and meaningful applications.  
 Technology is always evolving, and I’m committed to continuous learning and improvement.
 
-- 🌱 Currently learning: **Data Engineering, Python, Django, JavaScript, Responsive Web Design, and Git & GitHub workflows**
+- 🌱 Currently learning: **Data Engineering, Python, Django, SQL, and Git & GitHub workflows**
 - 📫 How to reach me: **shinminthant03mdy@gmail.com**
 
 ---
@@ -33,19 +33,19 @@ Here are some of the technologies I work with:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+**Backend & Frameworks:**  
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
 **Frontend Development:**  
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
-**Backend & Data Engineering:**  
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-**DevOps & CI/CD:**  
+**Tools & Version Control:**  
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -56,7 +56,7 @@ Here are some of the technologies I work with:
 ### 📈 My GitHub Stats
 
 <div align="center">
-  
+
 ![Shin Min Thant's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinMinThant&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinMinThant&layout=compact&theme=tokyonight)
