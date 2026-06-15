@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Shin Min Thant</h1>
 
-<h3 align="center">Aspiring Data Engineer | Python & Django Developer | Backend Enthusiast</h3>
+<h3 align="center">Aspiring Data Engineer | Python & Django Developer | Web Development Enthusiast</h3>
 
 ---
 
