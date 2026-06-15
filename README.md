@@ -1,59 +1,50 @@
 <h1 align="center">Hi there 👋, I'm Shin Min Thant</h1>
 
-<h3 align="center">Aspiring Data Engineer | Python & Django Developer | Web Development Enthusiast</h3>
+<h3 align="center">Aspiring Data Engineer & Web Developer</h3>
 
 ---
 
-## 👨‍💻 Profile Overview
+## 👨‍💻 About Me
 
-I am an aspiring **Data Engineer and Backend Developer** with a strong interest in building efficient, scalable, and data-driven systems.
+I am an aspiring **Data Engineer & Web Developer** focused on building strong foundations in software development, databases, and data systems.
 
-My journey began with **Web Development**, and has evolved toward **Data Engineering, Databases, and Backend Systems using Python and Django**.
+I work with **Python, Django, SQL, and web technologies**, and I continuously improve my skills through structured learning and practical projects.
 
-I am passionate about how data is collected, stored, processed, and transformed into meaningful insights that support real-world decision-making.
+My goal is to develop the ability to build both **data-driven systems and modern web applications**.
 
 ---
 
 ## 🎯 Technical Focus
 
-### 📊 Data Engineering
-- Relational Databases & SQL
-- Data Modeling & Database Design
-- Data Processing Fundamentals
-- Data Pipeline Concepts
-- Data Integration Basics
+📊 Data Engineering  
+- Relational Databases & SQL  
+- Data Modeling & Database Design  
+- Data Processing Fundamentals  
+- Data Pipeline Concepts  
+- Data Integration Basics  
 
-### 🐍 Backend Development
-- Python Programming
-- Django Framework
-- Object-Oriented Programming (OOP)
-- REST API Fundamentals
+🐍 Backend Development  
+- Python Programming  
+- Django Framework  
+- Object-Oriented Programming (OOP)  
+- REST API Fundamentals  
 
----
+🌐 Web Development (Supporting Skills)  
+- HTML5, CSS3, JavaScript  
+- React.js (Basic)  
+- PHP & Laravel  
+- Responsive Web Design  
 
-## 🌐 Web Development (Supporting Skills)
+🗄️ Databases & Systems  
+- MySQL  
+- Microsoft SQL Server  
+- Oracle Database (Fundamentals)  
+- NoSQL Concepts  
 
-- HTML5, CSS3, JavaScript
-- React.js (Basic)
-- PHP & Laravel
-- Responsive Web Design
-
----
-
-## 🗄️ Databases & Systems
-
-- MySQL
-- Microsoft SQL Server
-- Oracle Database (Fundamentals)
-- NoSQL Concepts
-
----
-
-## 🔧 Tools & Workflow
-
-- Git & GitHub (Version Control)
-- VS Code
-- Basic Software Development Workflow
+🔧 Tools & Workflow  
+- Git & GitHub (Version Control)  
+- VS Code  
+- Basic Software Development Workflow  
 
 ---
 
