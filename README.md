@@ -1,26 +1,57 @@
 <h1 align="center">Hi there 👋, I'm Shin Min Thant</h1>
 
-<h3 align="center">Aspiring Data Engineer | Python & Django Developer | Problem Solver</h3>
+<h3 align="center">Aspiring Data Engineer | Python & Django Developer</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an aspiring **Data Engineer and Backend Developer** with a strong interest in building data-driven systems and scalable backend applications.
+I am an aspiring **Data Engineer** with a strong interest in building data-driven systems, backend applications, and scalable software solutions.
 
-I started with **Front-End Development**, and I am now focusing on **Data Engineering, Python, and Django** to strengthen my backend and data processing skills.
+I started my journey in **Web Development**, and I am now focused on strengthening my skills in **Data Engineering, Databases, and Backend Development using Python and Django**.
 
-I enjoy working with data, solving logical problems, and continuously improving my technical skills through real projects and assignments.
+I enjoy understanding how data flows through systems — from databases to applications — and I continuously improve my skills through assignments, projects, and hands-on practice.
 
 ---
 
-## 🎯 Currently Focused On
+## 🎯 Core Focus Areas
 
-- 📊 Data Engineering (Databases, SQL, Data Pipelines)
-- 🐍 Python Programming
-- 🌐 Django Backend Development
-- 🗄️ Database Systems (MySQL, SQL Server)
-- 🔧 Git & GitHub Workflow
+### 📊 Data Engineering
+- Databases & SQL
+- Data Modeling & Data Structures
+- Data Pipelines (Basics)
+- Data Processing Concepts
+
+### 🐍 Backend Development
+- Python Programming
+- Django Framework
+- OOP (Object-Oriented Programming)
+- API Development (Basics)
+
+---
+
+## 🌐 Supporting Web Development Skills
+
+- HTML, CSS, JavaScript
+- React.js
+- PHP
+- Laravel Framework
+
+---
+
+## 🗄️ Databases
+
+- MySQL
+- Microsoft SQL Server
+- Oracle (Basics)
+- NoSQL Concepts
+
+---
+
+## 🔧 Tools & Technologies
+
+- Git & GitHub
+- VS Code
 
 ---
 
@@ -28,29 +59,6 @@ I enjoy working with data, solving logical problems, and continuously improving 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shin-min-thant-b35122336)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:shinminthant03mdy@gmail.com)
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Languages
-- HTML, CSS, JavaScript
-- Python
-- SQL
-
-### 🧠 Backend & Frameworks
-- Django
-- Basic API Development
-
-### 🗄️ Databases
-- MySQL
-- Microsoft SQL Server
-- Oracle (Basics)
-- NoSQL Concepts
-
-### 🔧 Tools
-- Git & GitHub
-- VS Code
 
 ---
 
@@ -66,4 +74,4 @@ I enjoy working with data, solving logical problems, and continuously improving 
 
 ---
 
-⭐ *“Consistency builds mastery. Every project is a step forward.”*
+⭐ *“Consistency builds skill. Projects build mastery.”*
