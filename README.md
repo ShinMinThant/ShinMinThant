@@ -1,68 +1,63 @@
 <h1 align="center">Hi there 👋, I'm Shin Min Thant</h1>
 
-<h3 align="center">Aspiring Data Engineer | Python & Django Developer</h3>
+<h3 align="center">Aspiring Data Engineer | Python & Django Developer | Backend Enthusiast</h3>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Profile Overview
 
-I am an aspiring **Data Engineer** with a strong interest in building data-driven systems, backend applications, and scalable software solutions.
+I am an aspiring **Data Engineer and Backend Developer** with a strong interest in building efficient, scalable, and data-driven systems.
 
-I started my journey in **Web Development**, and I am now focused on strengthening my skills in **Data Engineering, Databases, and Backend Development using Python and Django**.
+My journey began with **Web Development**, and has evolved toward **Data Engineering, Databases, and Backend Systems using Python and Django**.
 
-I enjoy understanding how data flows through systems — from databases to applications — and I continuously improve my skills through assignments, projects, and hands-on practice.
+I am passionate about how data is collected, stored, processed, and transformed into meaningful insights that support real-world decision-making.
 
 ---
 
-## 🎯 Core Focus Areas
+## 🎯 Technical Focus
 
 ### 📊 Data Engineering
-- Databases & SQL
-- Data Modeling & Data Structures
-- Data Pipelines (Basics)
-- Data Processing Concepts
+- Relational Databases & SQL
+- Data Modeling & Database Design
+- Data Processing Fundamentals
+- Data Pipeline Concepts
+- Data Integration Basics
 
 ### 🐍 Backend Development
 - Python Programming
 - Django Framework
-- OOP (Object-Oriented Programming)
-- API Development (Basics)
+- Object-Oriented Programming (OOP)
+- REST API Fundamentals
 
 ---
 
-## 🌐 Supporting Web Development Skills
+## 🌐 Web Development (Supporting Skills)
 
-- HTML, CSS, JavaScript
-- React.js
-- PHP
-- Laravel Framework
+- HTML5, CSS3, JavaScript
+- React.js (Basic)
+- PHP & Laravel
+- Responsive Web Design
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Databases & Systems
 
 - MySQL
 - Microsoft SQL Server
-- Oracle (Basics)
+- Oracle Database (Fundamentals)
 - NoSQL Concepts
 
 ---
 
-## 🔧 Tools & Technologies
+## 🔧 Tools & Workflow
 
-- Git & GitHub
+- Git & GitHub (Version Control)
 - VS Code
+- Basic Software Development Workflow
 
 ---
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shin-min-thant-b35122336)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:shinminthant03mdy@gmail.com)
-
----
-
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -74,4 +69,11 @@ I enjoy understanding how data flows through systems — from databases to appli
 
 ---
 
-⭐ *“Consistency builds skill. Projects build mastery.”*
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/shin-min-thant-b35122336  
+- Email: shinminthant03mdy@gmail.com  
+
+---
+
+⭐ *“Focus on building depth, not just learning tools.”*
